@@ -35,7 +35,7 @@ SubFuzzinator is a powerful and recursive subdomain fuzzing tool designed to unc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/SubFuzzinator.git
+   git clone https://github.com/session-x/SubFuzzinator.git
    cd SubFuzzinator
    ```
 
