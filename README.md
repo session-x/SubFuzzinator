@@ -1,34 +1,3 @@
-**SubFuzzinator** 
-
-### **How to Publish on GitHub**
-1. **Initialize a Local Git Repository**:
-   ```bash
-   git init
-   ```
-2. **Add Your Script and Files**:
-   Place your `subfuzzinator.sh` script, wordlist file (`subdomainfuzzin.txt`), and other necessary files in the project directory.
-
-3. **Commit the Code**:
-   ```bash
-   git add .
-   git commit -m "Initial commit: Add SubFuzzinator tool"
-   ```
-
-4. **Create a Repository on GitHub**:
-   - Go to [GitHub](https://github.com) and create a new repository named **SubFuzzinator**.
-   - Copy the repository's URL.
-
-5. **Push Your Code**:
-   ```bash
-   git remote add origin <repository-url>
-   git branch -M main
-   git push -u origin main
-   ```
-
----
-
-### **README.md for SubFuzzinator**
-Here’s a professional and visually appealing `README.md` template:
 
 ```markdown
 # SubFuzzinator 🚀
